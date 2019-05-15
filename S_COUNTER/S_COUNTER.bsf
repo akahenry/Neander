@@ -47,16 +47,9 @@ applicable agreement for further details.
 	(port
 		(pt 0 80)
 		(input)
-		(text "Enable" (rect 0 0 37 14)(font "Arial" (font_size 8)))
-		(text "Enable" (rect 21 75 58 89)(font "Arial" (font_size 8)))
-		(line (pt 0 80)(pt 16 80))
-	)
-	(port
-		(pt 0 96)
-		(input)
 		(text "Reset" (rect 0 0 33 14)(font "Arial" (font_size 8)))
-		(text "Reset" (rect 21 91 54 105)(font "Arial" (font_size 8)))
-		(line (pt 0 96)(pt 16 96))
+		(text "Reset" (rect 21 75 54 89)(font "Arial" (font_size 8)))
+		(line (pt 0 80)(pt 16 80))
 	)
 	(port
 		(pt 128 32)
